@@ -12,7 +12,7 @@ from telegram.ext import (
 )
 
 # --- Configuration ---
-TOKEN = "YOUR_BOT_TOKEN_HERE"
+TOKEN = "7308877263:AAEuz6pumYmjbeMyJ76GBYGJVvnDLXiubY4"
 ADMIN_ID = 1651695602
 BINANCE_ID = "38017799"
 
